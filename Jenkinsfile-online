@@ -14,7 +14,7 @@ pipeline {
         GITHUB_CREDENTIAL_ID = 'github-id'
         KUBECONFIG_CREDENTIAL_ID = 'demo-kubeconfig'
         REGISTRY = 'hub.vzicloud.com'
-        DOCKERHUB_NAMESPACE = 'k8s' // change me
+        DOCKERHUB_NAMESPACE = 'k8s'
         GITHUB_ACCOUNT = 'liu454639377' // change me
         APP_NAME = 'devops-java-sample'
         SONAR_CREDENTIAL_ID = 'sonar-token'
