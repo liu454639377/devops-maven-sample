@@ -16,7 +16,7 @@ pipeline {
         REGISTRY = 'hub.vzicloud.com'
         DOCKERHUB_NAMESPACE = 'k8s'
         GITHUB_ACCOUNT = 'liu454639377'
-        APP_NAME = 'devops-java-sample'
+        APP_NAME = 'devops-maven-sample'
     }
 
     stages {
